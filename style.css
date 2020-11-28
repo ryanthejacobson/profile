@@ -4,13 +4,13 @@
 }
 
 .bio-card {
-  background-color: white;
+  background-color: #EEEDED;
   padding: 40px;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
   border-radius: 4px;
   margin: 20px auto;
   text-align: center;
-  color: #bbbbbb;
+  color: #555555;
 
 
 }
@@ -21,13 +21,12 @@
 }
 
 .social-card {
-  background-color: white;
+  background-color: #EEEDED;
   padding: 40px;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
   border-radius: 4px;
   margin: 20px auto;
   text-align: center;
-  color: #bbbbbb;
 }
 
 .list-inline > li {
