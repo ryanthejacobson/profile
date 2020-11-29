@@ -1,6 +1,7 @@
 .container {
   width: 60%;
   margin: 0 auto;
+  font-family: sans-serif;
 }
 
 .bio-card {
@@ -11,8 +12,6 @@
   margin: 20px auto;
   text-align: center;
   color: #555555;
-
-
 }
 
 .img-circle {
@@ -56,12 +55,10 @@ body {
 h1 {
   font-size: 35px;
   color: #555555;
-  font-family: sans-serif;
 }
 
 h2 {
   font-size: 30px;
-  font-family: sans-serif;
   color: #8DB596;
   margin: none;
 }
