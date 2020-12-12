@@ -45,6 +45,60 @@
     align-items: center;
   }
 
+  width: 60%;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+.bio-card {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px auto;
+  text-align: center;
+  color: #555555;
+}
+
+.img-circle {
+  border-radius: 50%;
+  width: 100px;
+}
+
+.social-card {
+  background-color: white;
+  padding: 20px;
+  box-shadow: 0px 5px 20px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.follow {
+  margin: 5px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+.social-card {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.icons {
+  width: 85px;
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+
+
   body {
     background-color: #555555;
     font-family: serif;
@@ -52,6 +106,7 @@
     font-size: 20px;
     line-height: 1.6;
   }
+
 
   h1 {
     font-size: 35px;
@@ -64,6 +119,18 @@
     color: #d31f28;
     margin: none;
   }
+
+h1 {
+  font-size: 35px;
+  color: #555555;
+}
+
+h2 {
+  font-size: 30px;
+  color: #8DB596;
+  margin: none;
+}
+
 
   a {
     color: #d31f28;
